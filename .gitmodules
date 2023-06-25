@@ -1,0 +1,3 @@
+[submodule "libi8080"]
+	path = libi8080
+	url = https://github.com/mayawarrier/intel8080-emulator.git
